@@ -33,8 +33,8 @@ demonstrates PDF-based question answering using vector embeddings and retrieval.
 
 6. FAST API
     - POST and GET
-    - UploadFile hasndling
-    - Path ans Query parameters
+    - UploadFile handling
+    - Path and Query parameters
     - Auto-generated API documentation (Swagger UI)
 
 7. Backend utilites
