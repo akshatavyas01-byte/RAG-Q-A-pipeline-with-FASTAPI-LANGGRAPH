@@ -106,7 +106,7 @@ pip install -r requirements.txt
 ```
 ---
 ## Environment Variables (.env Setup)
-This project requires an API key to access HuggingFace LLMs.
+This project requires an API key to access GROQ LLMs.
 
 ### 1. Create a .env file in the project root
 ```python
@@ -115,7 +115,7 @@ GROQ_API_KEY=your_api_key_here
 
 ### 2. Ensure the key loads in your code
 
-Example (in chat_llm.py):
+Example:
 ```python
 from dotenv import load_dotenv
 import os
